@@ -1,4 +1,4 @@
-# SE [CustomerService Module] Frontend Full
+# ZJU Software Engineering Project [CustomerService Module]
 
 ## Introduction
 范例前端文件，后端Java，数据库都架设在远端服务器  
